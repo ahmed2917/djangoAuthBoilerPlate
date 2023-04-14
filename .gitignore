@@ -1,0 +1,5 @@
+account_management/migrations
+db.sqlite3
+.env
+.vscode
+__pycache__/
